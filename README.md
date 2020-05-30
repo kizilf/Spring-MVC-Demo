@@ -1,3 +1,5 @@
+# MVC-Demo
+
 Here is an experimental project of mine to examine what MVC architecture is capable of and how a real-life web-apps look like. 
 
 Hope you like it, stay safe!
